@@ -35,6 +35,9 @@ img {
     height: auto; 
     border-radius: 8px; 
 }
+.footer-text{
+    font-size: 12px;
+}
 
 /* Responsive Adjustments */
 @media screen and (max-width: 768px) {
